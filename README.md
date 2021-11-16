@@ -1,6 +1,6 @@
 # Tesla Niche Product Website
 
-[Live SERVERsite](https://racycar.herokuapp.com/)
+[Live SERVER.site](https://racycar.herokuapp.com/)
 
 ## About The Project
 
